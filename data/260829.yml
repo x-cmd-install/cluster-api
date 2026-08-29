@@ -1,0 +1,61 @@
+about:
+  description: Home for Cluster API, a subproject of sig-cluster-lifecycle
+  license: Apache-2.0
+  homepage: https://cluster-api.sigs.k8s.io
+  head: 7ddd6ab
+  archived: false
+  latestVersion: v1.12.11
+  collectedAt: 2026-08-29T07:03:58Z
+timeline:
+  created: 2018-03-07
+  lastCommit: 2026-08-28
+  lastRelease: 2026-08-11
+popularity:
+  star: 4290
+  watcher: 79
+  fork: 1546
+  release: 276
+  contributor: 974
+  pullRequest: 1084
+  issue: 3800
+language:
+  Go: 15513488
+  Makefile: 80739
+  Shell: 79989
+  Python: 49882
+  Dockerfile: 11007
+  Go Template: 339
+totalLine: 15735444
+recent:
+  last30d:
+    since: 2026-07-30
+    release: 4
+    mergedPR: 108
+    openPR: 22
+    closedIssue: 3
+    openIssue: 6
+    commit: 153
+  last90d:
+    since: 2026-05-31
+    release: 12
+    mergedPR: 320
+    openPR: 35
+    closedIssue: 16
+    openIssue: 15
+    commit: 473
+  last180d:
+    since: 2026-03-02
+    release: 27
+    mergedPR: 604
+    openPR: 41
+    closedIssue: 50
+    openIssue: 26
+    commit: 846
+  last360d:
+    since: 2025-09-03
+    release: 44
+    mergedPR: 1124
+    openPR: 45
+    closedIssue: 131
+    openIssue: 40
+    commit: 1609
