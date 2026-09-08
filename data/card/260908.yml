@@ -5,7 +5,7 @@ about:
   head: 5831aed
   archived: false
   latestVersion: "v1.14.1"
-  collectedAt: 2026-09-08T02:21:27Z
+  collectedAt: 2026-09-08T05:10:38Z
 timeline:
   created: 2018-03-07
   lastCommit: 2026-09-07
@@ -84,7 +84,7 @@ total:
   commit: 15447
 ---
 path: /home/runner/.x-repo/github.com/kubernetes-sigs/cluster-api
-collectedAt: 2026-09-08T02:22:01Z
+collectedAt: 2026-09-08T05:11:05Z
 loc:
   Go:
     code: 348912
