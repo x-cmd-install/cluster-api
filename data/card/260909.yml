@@ -2,25 +2,25 @@ about:
   description: "Home for Cluster API, a subproject of sig-cluster-lifecycle"
   license: Apache-2.0
   homepage: https://cluster-api.sigs.k8s.io
-  head: 4ba9004
+  head: 2a21b0f
   archived: false
   latestVersion: "v1.13.6"
   latestRelease: "v1.13.6"
   latestPrerelease: "v1.14.0-rc.1"
-  collectedAt: 2026-09-09T05:12:22Z
+  collectedAt: 2026-09-09T19:25:58Z
 timeline:
   created: 2018-03-07
-  lastCommit: 2026-09-08
+  lastCommit: 2026-09-09
   lastVersion: 2026-09-08
   lastRelease: 2026-09-08
   lastPrerelease: 2026-08-04
 popularity:
   star: 4302
   watcher: 79
-  fork: 1556
+  fork: 1557
   release: 279
   contributor: 981
-  pullRequest: 10276
+  pullRequest: 10278
   issue: 3805
 language:
   Go: 15547271
@@ -34,61 +34,61 @@ recent:
   last30d:
     since: 2026-08-10
     release: 6
-    mergedPR: 130
+    mergedPR: 131
     openPR: 13
     closedIssue: 2
     openIssue: 6
-    commit: 144
+    commit: 147
   last60d:
     since: 2026-07-11
     release: 12
-    mergedPR: 253
+    mergedPR: 254
     openPR: 29
     closedIssue: 7
     openIssue: 11
-    commit: 332
+    commit: 335
   last90d:
     since: 2026-06-11
     release: 15
-    mergedPR: 329
+    mergedPR: 330
     openPR: 32
     closedIssue: 16
     openIssue: 14
-    commit: 466
+    commit: 469
   last180d:
     since: 2026-03-13
     release: 30
-    mergedPR: 596
+    mergedPR: 597
     openPR: 37
     closedIssue: 56
     openIssue: 22
-    commit: 806
+    commit: 809
   last360d:
     since: 2025-09-14
     release: 47
-    mergedPR: 1145
+    mergedPR: 1146
     openPR: 42
     closedIssue: 131
     openIssue: 35
-    commit: 1611
+    commit: 1614
   last720d:
     since: 2024-09-19
     release: 96
-    mergedPR: 2345
+    mergedPR: 2346
     openPR: 44
     closedIssue: 331
     openIssue: 70
-    commit: 3448
+    commit: 3451
 total:
   release: 279
-  mergedPR: 9186
+  mergedPR: 9187
   openPR: 44
   closedIssue: 3639
   openIssue: 166
-  commit: 15463
+  commit: 15466
 ---
 path: /home/runner/.x-repo/github.com/kubernetes-sigs/cluster-api
-collectedAt: 2026-09-09T05:12:47Z
+collectedAt: 2026-09-09T19:26:26Z
 loc:
   Go:
     code: 349031
