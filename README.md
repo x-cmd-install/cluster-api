@@ -21,33 +21,56 @@ x install cluster-api
 ## Release
 
 - **Latest**: `v1.13.6` (2026-09-08)
-- **Last commit**: 2026-09-09
+- **Last commit**: 2026-09-10
 - **Assets in release**: 19
-- **Published**: 2026-09-08T17:29:58Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [bootstrap-components.yaml](https://github.com/kubernetes-sigs/cluster-api/releases/download/v1.14.2/bootstrap-components.yaml) | 585.2 KiB | `other` |
+| [cluster-api-components.yaml](https://github.com/kubernetes-sigs/cluster-api/releases/download/v1.14.2/cluster-api-components.yaml) | 2.4 MiB | `other` |
+| [cluster-template-development-mp.yaml](https://github.com/kubernetes-sigs/cluster-api/releases/download/v1.14.2/cluster-template-development-mp.yaml) | 926 B | `other` |
+| [cluster-template-development.yaml](https://github.com/kubernetes-sigs/cluster-api/releases/download/v1.14.2/cluster-template-development.yaml) | 932 B | `other` |
+| [cluster-template-in-memory.yaml](https://github.com/kubernetes-sigs/cluster-api/releases/download/v1.14.2/cluster-template-in-memory.yaml) | 634 B | `other` |
+| [clusterclass-in-memory.yaml](https://github.com/kubernetes-sigs/cluster-api/releases/download/v1.14.2/clusterclass-in-memory.yaml) | 4.7 KiB | `other` |
+| [clusterclass-quick-start.yaml](https://github.com/kubernetes-sigs/cluster-api/releases/download/v1.14.2/clusterclass-quick-start.yaml) | 12.3 KiB | `other` |
+| [clusterctl-darwin-amd64](https://github.com/kubernetes-sigs/cluster-api/releases/download/v1.14.2/clusterctl-darwin-amd64) | 33.9 MiB | `native/darwin/x64` |
+| [clusterctl-darwin-arm64](https://github.com/kubernetes-sigs/cluster-api/releases/download/v1.14.2/clusterctl-darwin-arm64) | 31.8 MiB | `native/darwin/arm64` |
+| [clusterctl-linux-amd64](https://github.com/kubernetes-sigs/cluster-api/releases/download/v1.14.2/clusterctl-linux-amd64) | 33.3 MiB | `native/linux/x64` |
+| [clusterctl-linux-arm64](https://github.com/kubernetes-sigs/cluster-api/releases/download/v1.14.2/clusterctl-linux-arm64) | 31.0 MiB | `native/linux/arm64` |
+| [clusterctl-linux-ppc64le](https://github.com/kubernetes-sigs/cluster-api/releases/download/v1.14.2/clusterctl-linux-ppc64le) | 32.9 MiB | `other` |
+| [clusterctl-windows-amd64.exe](https://github.com/kubernetes-sigs/cluster-api/releases/download/v1.14.2/clusterctl-windows-amd64.exe) | 34.0 MiB | `native/win/x64` |
+| [control-plane-components.yaml](https://github.com/kubernetes-sigs/cluster-api/releases/download/v1.14.2/control-plane-components.yaml) | 719.6 KiB | `other` |
+| [core-components.yaml](https://github.com/kubernetes-sigs/cluster-api/releases/download/v1.14.2/core-components.yaml) | 1.1 MiB | `other` |
+| [infrastructure-components-development.yaml](https://github.com/kubernetes-sigs/cluster-api/releases/download/v1.14.2/infrastructure-components-development.yaml) | 290.4 KiB | `other` |
+| [metadata.yaml](https://github.com/kubernetes-sigs/cluster-api/releases/download/v1.14.2/metadata.yaml) | 1.0 KiB | `other` |
+| [runtime-extension-components-development.yaml](https://github.com/kubernetes-sigs/cluster-api/releases/download/v1.14.2/runtime-extension-components-development.yaml) | 5.4 KiB | `other` |
+| [runtime-sdk-openapi.yaml](https://github.com/kubernetes-sigs/cluster-api/releases/download/v1.14.2/runtime-sdk-openapi.yaml) | 259.2 KiB | `other` |
 
 ## Popularity
 
-- **Stars**: 4,302 · **Forks**: 1,557 · **Open issues**: 3,805 · **Contributors**: 981
+- **Stars**: 4,302 · **Forks**: 1,558 · **Open issues**: 3,808 · **Contributors**: 982
 
 ## Totals (cumulative)
 
-- **Releases**: 279 · **Merged PRs**: 9187 · **Open PRs**: 44 · **Closed issues**: 3639 · **Open issues**: 166 · **Commits**: 15466
+- **Releases**: 279 · **Merged PRs**: 9188 · **Open PRs**: 45 · **Closed issues**: 3640 · **Open issues**: 168 · **Commits**: 15467
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 6 | 119 | 13 | 2 | 5 | 147 |
-| 90d | 2026-06-12 | 15 | 330 | 32 | 16 | 14 | 469 |
-| 360d | 2025-09-15 | 47 | 1142 | 42 | 129 | 35 | 1614 |
+| 30d | 2026-08-11 | 6 | 120 | 14 | 3 | 7 | 148 |
+| 90d | 2026-06-12 | 15 | 331 | 33 | 17 | 16 | 470 |
+| 360d | 2025-09-15 | 47 | 1143 | 43 | 130 | 37 | 1615 |
 
 ## Code size
 
-Total: **430,081** lines of code across **1693** files in the top 5 languages.
+Total: **430,858** lines of code across **1691** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 349,031 | 63,768 | 44,571 | 1339 |
+| Go | 349,808 | 63,832 | 44,616 | 1337 |
 | Yaml | 57,458 | 430 | 462 | 310 |
 | Json | 19,806 | 0 | 0 | 7 |
 | Makefile | 1,186 | 168 | 297 | 2 |
@@ -68,8 +91,8 @@ Lowest-scoring checks:
 Install metadata for cluster-api lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `cluster-api` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/cluster-api.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/cluster-api.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T05:16:27Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T17:00:03Z._
