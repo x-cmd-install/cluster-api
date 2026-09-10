@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 599260,
       "digest": "sha256:2a2d24f83244a6dae60e35d9e72e93c6ac3c209eedc467184737bb8eecfd63bb",
-      "download_count": 1032,
+      "download_count": 1373,
       "created_at": "2026-09-08T16:13:27Z",
       "updated_at": "2026-09-08T16:13:27Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/cluster-api/releases/download/v1.14.2/bootstrap-components.yaml"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 35517488,
       "digest": "sha256:07a8c84719e1c9f8a1f4e9c6f398423ac47de8fb0284ac2145acc134e6ffc1bd",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-09-08T16:13:27Z",
       "updated_at": "2026-09-08T16:13:29Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/cluster-api/releases/download/v1.14.2/clusterctl-darwin-amd64"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 33325938,
       "digest": "sha256:ea2285445da861b2ec96e948563cf158f4e0fd89a36238267b62e43a1bb00da8",
-      "download_count": 16,
+      "download_count": 18,
       "created_at": "2026-09-08T16:13:27Z",
       "updated_at": "2026-09-08T16:13:29Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/cluster-api/releases/download/v1.14.2/clusterctl-darwin-arm64"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 34869410,
       "digest": "sha256:01122674fd3c47a33206ab1b8b81d437afbcf5dd25d126535564f24a2cdf676e",
-      "download_count": 993,
+      "download_count": 1318,
       "created_at": "2026-09-08T16:13:27Z",
       "updated_at": "2026-09-08T16:13:29Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/cluster-api/releases/download/v1.14.2/clusterctl-linux-amd64"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 32506018,
       "digest": "sha256:83976008aa9ddb81dab01443c646aaa125e4993e17bf24e790e29779f712d79d",
-      "download_count": 21,
+      "download_count": 29,
       "created_at": "2026-09-08T16:13:27Z",
       "updated_at": "2026-09-08T16:13:29Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/cluster-api/releases/download/v1.14.2/clusterctl-linux-arm64"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 35655680,
       "digest": "sha256:30afbb0f7aaa796f485d0413b626470edb17702618aefb2f450785bceb885b7d",
-      "download_count": 11,
+      "download_count": 13,
       "created_at": "2026-09-08T16:13:27Z",
       "updated_at": "2026-09-08T16:13:29Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/cluster-api/releases/download/v1.14.2/clusterctl-windows-amd64.exe"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 736855,
       "digest": "sha256:7aa827b43eee898d8597bb39b7db5cf755c872c7a4da68b05cc3a9f35c459c93",
-      "download_count": 983,
+      "download_count": 1323,
       "created_at": "2026-09-08T16:13:27Z",
       "updated_at": "2026-09-08T16:13:27Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/cluster-api/releases/download/v1.14.2/control-plane-components.yaml"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 1174593,
       "digest": "sha256:b2fff42cb5e35440ed963a463c5ab128004481b5a4336ea0005812be2ff7e2a8",
-      "download_count": 808,
+      "download_count": 1019,
       "created_at": "2026-09-08T16:13:27Z",
       "updated_at": "2026-09-08T16:13:27Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/cluster-api/releases/download/v1.14.2/core-components.yaml"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 297417,
       "digest": "sha256:f6aef43bf70b76a38b1628cd4349d291159fbfd8082dbe9c2ec13d04487b5867",
-      "download_count": 205,
+      "download_count": 248,
       "created_at": "2026-09-08T16:13:27Z",
       "updated_at": "2026-09-08T16:13:27Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/cluster-api/releases/download/v1.14.2/infrastructure-components-development.yaml"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 1048,
       "digest": "sha256:c470906f551ac3e3e9aedc9a3e733b5a5994428693df43e95f65ea67c035f9fe",
-      "download_count": 2793,
+      "download_count": 3816,
       "created_at": "2026-09-08T16:13:27Z",
       "updated_at": "2026-09-08T16:13:27Z",
       "browser_download_url": "https://github.com/kubernetes-sigs/cluster-api/releases/download/v1.14.2/metadata.yaml"
