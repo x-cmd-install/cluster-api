@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 279 · **Merged PRs**: 9189 · **Open PRs**: 44 · **Closed issues**: 3640 · **Open issues**: 168 · **Commits**: 15468
+- **Releases**: 279 · **Merged PRs**: 9189 · **Open PRs**: 45 · **Closed issues**: 3640 · **Open issues**: 168 · **Commits**: 15468
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 6 | 121 | 13 | 3 | 7 | 149 |
-| last60d | 2026-07-12 | 12 | 256 | 29 | 8 | 13 | 337 |
-| 90d | 2026-06-12 | 15 | 332 | 32 | 17 | 16 | 471 |
-| last180d | 2026-03-14 | 30 | 599 | 37 | 57 | 24 | 811 |
-| 360d | 2025-09-15 | 47 | 1144 | 42 | 130 | 37 | 1616 |
-| last720d | 2024-09-20 | 96 | 2345 | 44 | 331 | 72 | 3435 |
+| 30d | 2026-08-12 | 3 | 117 | 14 | 3 | 7 | 149 |
+| last60d | 2026-07-13 | 12 | 251 | 30 | 8 | 13 | 337 |
+| 90d | 2026-06-13 | 15 | 331 | 33 | 17 | 16 | 471 |
+| last180d | 2026-03-15 | 30 | 598 | 38 | 57 | 24 | 811 |
+| 360d | 2025-09-16 | 47 | 1143 | 43 | 127 | 37 | 1616 |
+| last720d | 2024-09-21 | 96 | 2344 | 45 | 331 | 72 | 3432 |
 
 ## Release assets
 
@@ -98,4 +98,4 @@ Install metadata for cluster-api lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T00:00:23Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T05:13:02Z._
