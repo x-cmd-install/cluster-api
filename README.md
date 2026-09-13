@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 4,302 · **Forks**: 1,559 · **Open issues**: 3,808 · **Contributors**: 984
+- **Stars**: 4,302 · **Forks**: 1,560 · **Open issues**: 3,809 · **Contributors**: 984
 
 ## Totals (cumulative)
 
-- **Releases**: 279 · **Merged PRs**: 9196 · **Open PRs**: 44 · **Closed issues**: 3642 · **Open issues**: 166 · **Commits**: 15477
+- **Releases**: 279 · **Merged PRs**: 9198 · **Open PRs**: 43 · **Closed issues**: 3642 · **Open issues**: 167 · **Commits**: 15477
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-12 | 3 | 124 | 13 | 3 | 7 | 158 |
-| last60d | 2026-07-13 | 12 | 258 | 29 | 9 | 12 | 346 |
-| 90d | 2026-06-13 | 15 | 338 | 32 | 18 | 15 | 480 |
-| last180d | 2026-03-15 | 30 | 605 | 37 | 58 | 23 | 820 |
-| 360d | 2025-09-16 | 47 | 1150 | 42 | 128 | 36 | 1625 |
-| last720d | 2024-09-21 | 96 | 2351 | 44 | 332 | 71 | 3441 |
+| 30d | 2026-08-14 | 3 | 111 | 12 | 3 | 7 | 112 |
+| last60d | 2026-07-15 | 12 | 252 | 28 | 9 | 12 | 285 |
+| 90d | 2026-06-15 | 15 | 334 | 31 | 18 | 16 | 437 |
+| last180d | 2026-03-17 | 30 | 586 | 36 | 57 | 24 | 781 |
+| 360d | 2025-09-18 | 47 | 1145 | 41 | 128 | 37 | 1606 |
+| last720d | 2024-09-23 | 96 | 2350 | 43 | 332 | 72 | 3440 |
 
 ## Release assets
 
@@ -98,4 +98,4 @@ Install metadata for cluster-api lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T19:52:23Z._
+_Snapshot: `data/card/260913.yml` · 2026-09-13T05:30:41Z._
