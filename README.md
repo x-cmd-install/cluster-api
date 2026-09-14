@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 3 | 111 | 12 | 3 | 7 | 112 |
-| last60d | 2026-07-15 | 12 | 252 | 28 | 9 | 12 | 285 |
-| 90d | 2026-06-15 | 15 | 334 | 31 | 18 | 16 | 437 |
-| last180d | 2026-03-17 | 30 | 586 | 36 | 57 | 24 | 781 |
-| 360d | 2025-09-18 | 47 | 1145 | 41 | 128 | 37 | 1606 |
-| last720d | 2024-09-23 | 96 | 2350 | 43 | 332 | 72 | 3440 |
+| 30d | 2026-08-15 | 3 | 110 | 11 | 3 | 7 | 112 |
+| last60d | 2026-07-16 | 9 | 246 | 28 | 9 | 12 | 285 |
+| 90d | 2026-06-16 | 15 | 331 | 31 | 18 | 16 | 437 |
+| last180d | 2026-03-18 | 27 | 581 | 36 | 56 | 24 | 781 |
+| 360d | 2025-09-19 | 47 | 1144 | 41 | 126 | 37 | 1606 |
+| last720d | 2024-09-24 | 96 | 2348 | 43 | 332 | 72 | 3437 |
 
 ## Release assets
 
@@ -98,4 +98,4 @@ Install metadata for cluster-api lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T05:30:41Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T05:31:11Z._
