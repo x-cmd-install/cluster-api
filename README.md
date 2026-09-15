@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.13.6` (2026-09-08)
-- **Last commit**: 2026-09-11
+- **Last commit**: 2026-09-14
 - **Assets in release**: 19
 
 ## Popularity
 
-- **Stars**: 4,302 · **Forks**: 1,560 · **Open issues**: 3,809 · **Contributors**: 984
+- **Stars**: 4,303 · **Forks**: 1,562 · **Open issues**: 3,809 · **Contributors**: 985
 
 ## Totals (cumulative)
 
-- **Releases**: 279 · **Merged PRs**: 9198 · **Open PRs**: 43 · **Closed issues**: 3642 · **Open issues**: 167 · **Commits**: 15477
+- **Releases**: 279 · **Merged PRs**: 9199 · **Open PRs**: 47 · **Closed issues**: 3643 · **Open issues**: 166 · **Commits**: 15479
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-15 | 3 | 110 | 11 | 3 | 7 | 112 |
-| last60d | 2026-07-16 | 9 | 246 | 28 | 9 | 12 | 285 |
-| 90d | 2026-06-16 | 15 | 331 | 31 | 18 | 16 | 437 |
-| last180d | 2026-03-18 | 27 | 581 | 36 | 56 | 24 | 781 |
-| 360d | 2025-09-19 | 47 | 1144 | 41 | 126 | 37 | 1606 |
-| last720d | 2024-09-24 | 96 | 2348 | 43 | 332 | 72 | 3437 |
+| 30d | 2026-08-16 | 3 | 111 | 15 | 4 | 6 | 114 |
+| last60d | 2026-07-17 | 9 | 238 | 31 | 10 | 11 | 287 |
+| 90d | 2026-06-17 | 15 | 328 | 35 | 18 | 15 | 439 |
+| last180d | 2026-03-19 | 27 | 572 | 40 | 55 | 22 | 783 |
+| 360d | 2025-09-20 | 47 | 1145 | 45 | 127 | 36 | 1608 |
+| last720d | 2024-09-25 | 96 | 2346 | 47 | 333 | 70 | 3433 |
 
 ## Release assets
 
@@ -98,4 +98,4 @@ Install metadata for cluster-api lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260914.yml` · 2026-09-14T05:31:11Z._
+_Snapshot: `data/card/260915.yml` · 2026-09-15T05:34:10Z._
