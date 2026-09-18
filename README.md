@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.13.6` (2026-09-08)
-- **Last commit**: 2026-09-16
+- **Last commit**: 2026-09-17
 - **Assets in release**: 19
 
 ## Popularity
 
-- **Stars**: 4,306 · **Forks**: 1,564 · **Open issues**: 3,810 · **Contributors**: 987
+- **Stars**: 4,307 · **Forks**: 1,565 · **Open issues**: 3,810 · **Contributors**: 986
 
 ## Totals (cumulative)
 
-- **Releases**: 279 · **Merged PRs**: 9205 · **Open PRs**: 46 · **Closed issues**: 3646 · **Open issues**: 164 · **Commits**: 15488
+- **Releases**: 279 · **Merged PRs**: 9206 · **Open PRs**: 48 · **Closed issues**: 3646 · **Open issues**: 164 · **Commits**: 15490
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-18 | 3 | 109 | 14 | 6 | 5 | 122 |
-| last60d | 2026-07-19 | 9 | 243 | 30 | 11 | 10 | 295 |
-| 90d | 2026-06-19 | 15 | 325 | 35 | 19 | 13 | 447 |
-| last180d | 2026-03-21 | 27 | 576 | 39 | 57 | 21 | 792 |
-| 360d | 2025-09-22 | 47 | 1148 | 44 | 130 | 34 | 1617 |
-| last720d | 2024-09-27 | 96 | 2345 | 46 | 336 | 67 | 3437 |
+| 30d | 2026-08-19 | 3 | 107 | 14 | 6 | 5 | 123 |
+| last60d | 2026-07-20 | 9 | 232 | 32 | 11 | 10 | 296 |
+| 90d | 2026-06-20 | 15 | 325 | 36 | 19 | 13 | 448 |
+| last180d | 2026-03-22 | 27 | 577 | 41 | 57 | 21 | 793 |
+| 360d | 2025-09-23 | 47 | 1145 | 46 | 128 | 34 | 1618 |
+| last720d | 2024-09-28 | 96 | 2346 | 48 | 336 | 67 | 3432 |
 
 ## Release assets
 
@@ -98,4 +98,4 @@ Install metadata for cluster-api lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260917.yml` · 2026-09-17T05:32:57Z._
+_Snapshot: `data/card/260918.yml` · 2026-09-18T05:21:25Z._
