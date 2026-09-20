@@ -4,7 +4,7 @@
 
 Home for Cluster API, a subproject of sig-cluster-lifecycle
 
-![cluster-api](https://repo.x-cmd.io/cluster-api.svg)
+[![x-cmd/install — cluster-api Code Quality Monitoring Repo Card](https://repo.x-cmd.io/cluster-api.svg)](https://x-cmd.com/install/cluster-api)
 
 ## Install
 
@@ -14,12 +14,12 @@ x install cluster-api
 
 ## Code insight
 
-Total: **432,544** lines of code across **1691** files in the top 5 languages.
+Total: **433,711** lines of code across **1693** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 351,454 | 63,973 | 44,686 | 1337 |
-| Yaml | 57,498 | 430 | 462 | 310 |
+| Go | 352,294 | 64,037 | 44,741 | 1337 |
+| Yaml | 57,825 | 430 | 462 | 312 |
 | Json | 19,806 | 0 | 0 | 7 |
 | Makefile | 1,186 | 168 | 297 | 2 |
 | Sh | 1,121 | 737 | 365 | 35 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.13.6` (2026-09-08)
-- **Last commit**: 2026-09-17
+- **Last commit**: 2026-09-18
 - **Assets in release**: 19
 
 ## Popularity
 
-- **Stars**: 4,307 · **Forks**: 1,565 · **Open issues**: 3,810 · **Contributors**: 986
+- **Stars**: 4,308 · **Forks**: 1,566 · **Open issues**: 3,810 · **Contributors**: 986
 
 ## Totals (cumulative)
 
-- **Releases**: 279 · **Merged PRs**: 9206 · **Open PRs**: 48 · **Closed issues**: 3646 · **Open issues**: 164 · **Commits**: 15490
+- **Releases**: 279 · **Merged PRs**: 9210 · **Open PRs**: 48 · **Closed issues**: 3646 · **Open issues**: 164 · **Commits**: 15495
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 3 | 107 | 14 | 6 | 5 | 123 |
-| last60d | 2026-07-20 | 9 | 232 | 32 | 11 | 10 | 296 |
-| 90d | 2026-06-20 | 15 | 325 | 36 | 19 | 13 | 448 |
-| last180d | 2026-03-22 | 27 | 577 | 41 | 57 | 21 | 793 |
-| 360d | 2025-09-23 | 47 | 1145 | 46 | 128 | 34 | 1618 |
-| last720d | 2024-09-28 | 96 | 2346 | 48 | 336 | 67 | 3432 |
+| 30d | 2026-08-21 | 3 | 99 | 14 | 6 | 5 | 84 |
+| last60d | 2026-07-22 | 8 | 221 | 30 | 11 | 10 | 255 |
+| 90d | 2026-06-22 | 15 | 327 | 36 | 18 | 13 | 437 |
+| last180d | 2026-03-24 | 27 | 577 | 41 | 56 | 21 | 786 |
+| 360d | 2025-09-25 | 47 | 1146 | 46 | 125 | 33 | 1610 |
+| last720d | 2024-09-30 | 96 | 2344 | 48 | 334 | 67 | 3436 |
 
 ## Release assets
 
@@ -98,4 +98,4 @@ Install metadata for cluster-api lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T05:21:25Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:26:01Z._
