@@ -14,11 +14,11 @@ x install cluster-api
 
 ## Code insight
 
-Total: **438,104** lines of code across **1701** files in the top 5 languages.
+Total: **438,538** lines of code across **1701** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 356,160 | 64,573 | 45,048 | 1345 |
+| Go | 356,594 | 64,594 | 45,064 | 1345 |
 | Yaml | 58,306 | 430 | 482 | 312 |
 | Json | 19,806 | 0 | 0 | 7 |
 | Makefile | 1,186 | 168 | 297 | 2 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.14.3` (2026-10-07)
-- **Last commit**: 2026-10-07
+- **Last commit**: 2026-10-08
 - **Assets in release**: 19
 
 ## Popularity
 
-- **Stars**: 4,327 · **Forks**: 1,572 · **Open issues**: 3,824 · **Contributors**: 1,001
+- **Stars**: 4,331 · **Forks**: 1,574 · **Open issues**: 3,825 · **Contributors**: 1,001
 
 ## Totals (cumulative)
 
-- **Releases**: 281 · **Merged PRs**: 9279 · **Open PRs**: 44 · **Closed issues**: 3662 · **Open issues**: 162 · **Commits**: 15597
+- **Releases**: 281 · **Merged PRs**: 9288 · **Open PRs**: 45 · **Closed issues**: 3664 · **Open issues**: 161 · **Commits**: 15608
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-08 | 4 | 83 | 13 | 10 | 9 | 109 |
-| last60d | 2026-08-09 | 8 | 230 | 17 | 16 | 13 | 273 |
-| 90d | 2026-07-10 | 14 | 345 | 30 | 20 | 17 | 466 |
-| last180d | 2026-04-11 | 25 | 600 | 36 | 60 | 23 | 829 |
-| 360d | 2025-10-13 | 47 | 1171 | 42 | 135 | 35 | 1638 |
-| last720d | 2024-10-18 | 96 | 2355 | 44 | 340 | 68 | 3448 |
+| 30d | 2026-09-09 | 2 | 89 | 15 | 11 | 9 | 121 |
+| last60d | 2026-08-10 | 8 | 228 | 19 | 15 | 13 | 285 |
+| 90d | 2026-07-11 | 14 | 354 | 31 | 21 | 17 | 478 |
+| last180d | 2026-04-12 | 25 | 606 | 37 | 61 | 23 | 841 |
+| 360d | 2025-10-14 | 47 | 1177 | 43 | 136 | 34 | 1650 |
+| last720d | 2024-10-19 | 96 | 2363 | 45 | 341 | 68 | 3452 |
 
 ## Release assets
 
@@ -98,4 +98,4 @@ Install metadata for cluster-api lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261008.yml` · 2026-10-08T06:34:33Z._
+_Snapshot: `data/card/261009.yml` · 2026-10-09T06:30:27Z._
