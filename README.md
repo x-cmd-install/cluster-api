@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.14.3` (2026-10-07)
-- **Last commit**: 2026-10-14
+- **Last commit**: 2026-10-15
 - **Assets in release**: 19
 
 ## Popularity
 
-- **Stars**: 4,334 · **Forks**: 1,573 · **Open issues**: 3,834 · **Contributors**: 1,005
+- **Stars**: 4,334 · **Forks**: 1,575 · **Open issues**: 3,838 · **Contributors**: 1,006
 
 ## Totals (cumulative)
 
-- **Releases**: 281 · **Merged PRs**: 9303 · **Open PRs**: 37 · **Closed issues**: 3671 · **Open issues**: 163 · **Commits**: 15631
+- **Releases**: 281 · **Merged PRs**: 9305 · **Open PRs**: 41 · **Closed issues**: 3672 · **Open issues**: 166 · **Commits**: 15632
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-15 | 2 | 86 | 7 | 12 | 13 | 115 |
-| last60d | 2026-08-16 | 5 | 211 | 10 | 20 | 15 | 268 |
-| 90d | 2026-07-17 | 11 | 340 | 23 | 26 | 20 | 461 |
-| last180d | 2026-04-18 | 24 | 604 | 29 | 66 | 26 | 845 |
-| 360d | 2025-10-20 | 47 | 1175 | 35 | 137 | 38 | 1646 |
-| last720d | 2024-10-25 | 96 | 2352 | 37 | 342 | 72 | 3434 |
+| 30d | 2026-09-16 | 2 | 88 | 11 | 12 | 16 | 116 |
+| last60d | 2026-08-17 | 5 | 210 | 14 | 20 | 19 | 269 |
+| 90d | 2026-07-18 | 11 | 342 | 26 | 26 | 24 | 462 |
+| last180d | 2026-04-19 | 24 | 606 | 33 | 66 | 30 | 846 |
+| 360d | 2025-10-21 | 47 | 1173 | 39 | 137 | 42 | 1647 |
+| last720d | 2024-10-26 | 96 | 2354 | 41 | 342 | 76 | 3424 |
 
 ## Release assets
 
@@ -98,4 +98,4 @@ Install metadata for cluster-api lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261015.yml` · 2026-10-15T05:13:27Z._
+_Snapshot: `data/card/261016.yml` · 2026-10-16T05:01:09Z._
