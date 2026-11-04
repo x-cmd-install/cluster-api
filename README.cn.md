@@ -14,11 +14,11 @@ x install cluster-api
 
 ## 代码洞察
 
-合计: **443,549** 行代码（覆盖前 5 种语言、共 **1695** 个文件）。
+合计: **443,610** 行代码（覆盖前 5 种语言、共 **1695** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 361,643 | 64,926 | 45,420 | 1339 |
+| Go | 361,704 | 64,945 | 45,429 | 1339 |
 | Yaml | 58,259 | 430 | 483 | 312 |
 | Json | 19,806 | 0 | 0 | 7 |
 | Makefile | 1,186 | 168 | 297 | 2 |
@@ -42,52 +42,52 @@ x install cluster-api
 
 ## 发布
 
-- **最新版本**: `v1.14.3` (2026-10-07)
-- **最近提交**: 2026-11-02
+- **最新版本**: `v1.15.0-beta.0` (2026-11-03)
+- **最近提交**: 2026-11-03
 - **Release 含资产**: 19 个
 
 ## 流行度
 
-- **Star**: 4,345 · **Fork**: 1,587 · **开放 issue**: 3,846 · **贡献者**: 1,020
+- **Star**: 4,346 · **Fork**: 1,588 · **开放 issue**: 3,846 · **贡献者**: 1,020
 
 ## 累计统计
 
-- **发布数**: 281 · **已合并 PR**: 9356 · **开放 PR**: 48 · **已关闭 issue**: 3688 · **开放 issue**: 158 · **提交数**: 15708
+- **发布数**: 284 · **已合并 PR**: 9366 · **开放 PR**: 44 · **已关闭 issue**: 3689 · **开放 issue**: 157 · **提交数**: 15723
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-04 | 2 | 86 | 18 | 16 | 12 | 93 |
-| last60d | 2026-09-04 | 4 | 172 | 20 | 27 | 15 | 226 |
-| 90d | 2026-08-05 | 8 | 309 | 28 | 32 | 19 | 415 |
-| last180d | 2026-05-07 | 20 | 605 | 40 | 68 | 27 | 846 |
-| 360d | 2025-11-08 | 44 | 1159 | 46 | 135 | 37 | 1579 |
-| last720d | 2024-11-13 | 93 | 2346 | 47 | 345 | 69 | 3408 |
+| 30d | 2026-10-05 | 5 | 92 | 14 | 17 | 11 | 108 |
+| last60d | 2026-09-05 | 7 | 182 | 16 | 28 | 14 | 241 |
+| 90d | 2026-08-06 | 11 | 319 | 21 | 33 | 18 | 430 |
+| last180d | 2026-05-08 | 23 | 611 | 36 | 68 | 26 | 861 |
+| 360d | 2025-11-09 | 47 | 1169 | 42 | 136 | 36 | 1594 |
+| last720d | 2024-11-14 | 96 | 2350 | 43 | 346 | 68 | 3410 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [bootstrap-components.yaml](https://github.com/kubernetes-sigs/cluster-api/releases/download/v1.14.3/bootstrap-components.yaml) | 585.2 KiB | `other` |
-| [cluster-api-components.yaml](https://github.com/kubernetes-sigs/cluster-api/releases/download/v1.14.3/cluster-api-components.yaml) | 2.4 MiB | `other` |
-| [cluster-template-development-mp.yaml](https://github.com/kubernetes-sigs/cluster-api/releases/download/v1.14.3/cluster-template-development-mp.yaml) | 926 B | `other` |
-| [cluster-template-development.yaml](https://github.com/kubernetes-sigs/cluster-api/releases/download/v1.14.3/cluster-template-development.yaml) | 932 B | `other` |
-| [cluster-template-in-memory.yaml](https://github.com/kubernetes-sigs/cluster-api/releases/download/v1.14.3/cluster-template-in-memory.yaml) | 634 B | `other` |
-| [clusterclass-in-memory.yaml](https://github.com/kubernetes-sigs/cluster-api/releases/download/v1.14.3/clusterclass-in-memory.yaml) | 4.7 KiB | `other` |
-| [clusterclass-quick-start.yaml](https://github.com/kubernetes-sigs/cluster-api/releases/download/v1.14.3/clusterclass-quick-start.yaml) | 12.3 KiB | `other` |
-| [clusterctl-darwin-amd64](https://github.com/kubernetes-sigs/cluster-api/releases/download/v1.14.3/clusterctl-darwin-amd64) | 33.9 MiB | `native/darwin/x64` |
-| [clusterctl-darwin-arm64](https://github.com/kubernetes-sigs/cluster-api/releases/download/v1.14.3/clusterctl-darwin-arm64) | 31.8 MiB | `native/darwin/arm64` |
-| [clusterctl-linux-amd64](https://github.com/kubernetes-sigs/cluster-api/releases/download/v1.14.3/clusterctl-linux-amd64) | 33.3 MiB | `native/linux/x64` |
-| [clusterctl-linux-arm64](https://github.com/kubernetes-sigs/cluster-api/releases/download/v1.14.3/clusterctl-linux-arm64) | 31.0 MiB | `native/linux/arm64` |
-| [clusterctl-linux-ppc64le](https://github.com/kubernetes-sigs/cluster-api/releases/download/v1.14.3/clusterctl-linux-ppc64le) | 32.9 MiB | `other` |
-| [clusterctl-windows-amd64.exe](https://github.com/kubernetes-sigs/cluster-api/releases/download/v1.14.3/clusterctl-windows-amd64.exe) | 34.0 MiB | `native/win/x64` |
-| [control-plane-components.yaml](https://github.com/kubernetes-sigs/cluster-api/releases/download/v1.14.3/control-plane-components.yaml) | 719.6 KiB | `other` |
-| [core-components.yaml](https://github.com/kubernetes-sigs/cluster-api/releases/download/v1.14.3/core-components.yaml) | 1.1 MiB | `other` |
-| [infrastructure-components-development.yaml](https://github.com/kubernetes-sigs/cluster-api/releases/download/v1.14.3/infrastructure-components-development.yaml) | 290.4 KiB | `other` |
-| [metadata.yaml](https://github.com/kubernetes-sigs/cluster-api/releases/download/v1.14.3/metadata.yaml) | 1.0 KiB | `other` |
-| [runtime-extension-components-development.yaml](https://github.com/kubernetes-sigs/cluster-api/releases/download/v1.14.3/runtime-extension-components-development.yaml) | 5.4 KiB | `other` |
-| [runtime-sdk-openapi.yaml](https://github.com/kubernetes-sigs/cluster-api/releases/download/v1.14.3/runtime-sdk-openapi.yaml) | 259.4 KiB | `other` |
+| [bootstrap-components.yaml](https://github.com/kubernetes-sigs/cluster-api/releases/download/v1.14.4/bootstrap-components.yaml) | 585.2 KiB | `other` |
+| [cluster-api-components.yaml](https://github.com/kubernetes-sigs/cluster-api/releases/download/v1.14.4/cluster-api-components.yaml) | 2.4 MiB | `other` |
+| [cluster-template-development-mp.yaml](https://github.com/kubernetes-sigs/cluster-api/releases/download/v1.14.4/cluster-template-development-mp.yaml) | 926 B | `other` |
+| [cluster-template-development.yaml](https://github.com/kubernetes-sigs/cluster-api/releases/download/v1.14.4/cluster-template-development.yaml) | 932 B | `other` |
+| [cluster-template-in-memory.yaml](https://github.com/kubernetes-sigs/cluster-api/releases/download/v1.14.4/cluster-template-in-memory.yaml) | 634 B | `other` |
+| [clusterclass-in-memory.yaml](https://github.com/kubernetes-sigs/cluster-api/releases/download/v1.14.4/clusterclass-in-memory.yaml) | 4.7 KiB | `other` |
+| [clusterclass-quick-start.yaml](https://github.com/kubernetes-sigs/cluster-api/releases/download/v1.14.4/clusterclass-quick-start.yaml) | 12.3 KiB | `other` |
+| [clusterctl-darwin-amd64](https://github.com/kubernetes-sigs/cluster-api/releases/download/v1.14.4/clusterctl-darwin-amd64) | 34.0 MiB | `native/darwin/x64` |
+| [clusterctl-darwin-arm64](https://github.com/kubernetes-sigs/cluster-api/releases/download/v1.14.4/clusterctl-darwin-arm64) | 31.9 MiB | `native/darwin/arm64` |
+| [clusterctl-linux-amd64](https://github.com/kubernetes-sigs/cluster-api/releases/download/v1.14.4/clusterctl-linux-amd64) | 33.4 MiB | `native/linux/x64` |
+| [clusterctl-linux-arm64](https://github.com/kubernetes-sigs/cluster-api/releases/download/v1.14.4/clusterctl-linux-arm64) | 31.1 MiB | `native/linux/arm64` |
+| [clusterctl-linux-ppc64le](https://github.com/kubernetes-sigs/cluster-api/releases/download/v1.14.4/clusterctl-linux-ppc64le) | 32.9 MiB | `other` |
+| [clusterctl-windows-amd64.exe](https://github.com/kubernetes-sigs/cluster-api/releases/download/v1.14.4/clusterctl-windows-amd64.exe) | 34.1 MiB | `native/win/x64` |
+| [control-plane-components.yaml](https://github.com/kubernetes-sigs/cluster-api/releases/download/v1.14.4/control-plane-components.yaml) | 719.6 KiB | `other` |
+| [core-components.yaml](https://github.com/kubernetes-sigs/cluster-api/releases/download/v1.14.4/core-components.yaml) | 1.1 MiB | `other` |
+| [infrastructure-components-development.yaml](https://github.com/kubernetes-sigs/cluster-api/releases/download/v1.14.4/infrastructure-components-development.yaml) | 290.4 KiB | `other` |
+| [metadata.yaml](https://github.com/kubernetes-sigs/cluster-api/releases/download/v1.14.4/metadata.yaml) | 1.0 KiB | `other` |
+| [runtime-extension-components-development.yaml](https://github.com/kubernetes-sigs/cluster-api/releases/download/v1.14.4/runtime-extension-components-development.yaml) | 5.4 KiB | `other` |
+| [runtime-sdk-openapi.yaml](https://github.com/kubernetes-sigs/cluster-api/releases/download/v1.14.4/runtime-sdk-openapi.yaml) | 259.4 KiB | `other` |
 
 ## 改进这些数据
 
@@ -98,4 +98,4 @@ cluster-api 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/insta
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261103.yml` · 2026-11-03T07:18:19Z._
+_数据快照: `data/card/261104.yml` · 2026-11-04T06:49:36Z._
