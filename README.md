@@ -38,22 +38,22 @@ Total: **446,490** lines of code across **1696** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 4,351 · **Forks**: 1,604 · **Open issues**: 3,850 · **Contributors**: 1,029
+- **Stars**: 4,354 · **Forks**: 1,604 · **Open issues**: 3,851 · **Contributors**: 1,029
 
 ## Totals (cumulative)
 
-- **Releases**: 285 · **Merged PRs**: 9440 · **Open PRs**: 24 · **Closed issues**: 3705 · **Open issues**: 145 · **Commits**: 15861
+- **Releases**: 285 · **Merged PRs**: 9440 · **Open PRs**: 26 · **Closed issues**: 3705 · **Open issues**: 146 · **Commits**: 15861
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-21 | 4 | 110 | 8 | 5 | 3 | 199 |
-| last60d | 2026-09-21 | 6 | 211 | 11 | 32 | 8 | 331 |
-| 90d | 2026-08-22 | 9 | 321 | 11 | 41 | 10 | 469 |
-| last180d | 2026-05-24 | 21 | 631 | 21 | 69 | 15 | 936 |
-| 360d | 2025-11-25 | 47 | 1177 | 22 | 142 | 26 | 1640 |
-| last720d | 2024-11-30 | 95 | 2350 | 23 | 352 | 59 | 3423 |
+| 30d | 2026-10-22 | 4 | 108 | 10 | 5 | 4 | 199 |
+| last60d | 2026-09-22 | 6 | 209 | 13 | 31 | 9 | 331 |
+| 90d | 2026-08-23 | 9 | 318 | 13 | 41 | 11 | 469 |
+| last180d | 2026-05-25 | 21 | 630 | 23 | 69 | 16 | 936 |
+| 360d | 2025-11-26 | 46 | 1171 | 24 | 142 | 27 | 1640 |
+| last720d | 2024-12-01 | 95 | 2349 | 25 | 352 | 60 | 3423 |
 
 ## Release assets
 
@@ -88,4 +88,4 @@ Install metadata for cluster-api lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261120.yml` · 2026-11-20T08:44:11Z._
+_Snapshot: `data/card/261121.yml` · 2026-11-21T08:31:26Z._
