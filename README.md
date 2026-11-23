@@ -24,16 +24,6 @@ Total: **446,219** lines of code across **1696** files in the top 5 languages.
 | Makefile | 1,196 | 169 | 297 | 2 |
 | Sh | 1,176 | 769 | 382 | 35 |
 
-## OpenSSF Scorecard
-
-Overall score: **6.6 / 10**
-
-Lowest-scoring checks:
-
-- **Packaging** (-1/10) — packaging workflow not detected
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **CII-Best-Practices** (2/10) — badge detected: InProgress
-
 ## Source
 
 - **Upstream**: <https://github.com/kubernetes-sigs/cluster-api>
@@ -43,27 +33,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.15.0-beta.1` (2026-11-03)
-- **Last commit**: 2026-11-21
+- **Last commit**: 2026-11-23
 - **Assets in release**: 19
 
 ## Popularity
 
-- **Stars**: 4,359 · **Forks**: 1,604 · **Open issues**: 3,851 · **Contributors**: 1,029
+- **Stars**: 4,367 · **Forks**: 1,614 · **Open issues**: 3,851 · **Contributors**: 1,030
 
 ## Totals (cumulative)
 
-- **Releases**: 285 · **Merged PRs**: 9441 · **Open PRs**: 27 · **Closed issues**: 3705 · **Open issues**: 146 · **Commits**: 15866
+- **Releases**: 285 · **Merged PRs**: 9442 · **Open PRs**: 28 · **Closed issues**: 3705 · **Open issues**: 146 · **Commits**: 15868
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-23 | 4 | 109 | 11 | 5 | 4 | 162 |
-| last60d | 2026-09-23 | 6 | 203 | 14 | 29 | 8 | 294 |
-| 90d | 2026-08-24 | 9 | 316 | 14 | 41 | 11 | 432 |
-| last180d | 2026-05-26 | 21 | 624 | 24 | 69 | 16 | 907 |
-| 360d | 2025-11-27 | 46 | 1167 | 25 | 137 | 27 | 1613 |
-| last720d | 2024-12-02 | 95 | 2336 | 26 | 352 | 60 | 3428 |
+| 30d | 2026-10-24 | 4 | 110 | 12 | 5 | 4 | 164 |
+| last60d | 2026-09-24 | 6 | 202 | 15 | 28 | 8 | 296 |
+| 90d | 2026-08-25 | 9 | 312 | 15 | 41 | 11 | 434 |
+| last180d | 2026-05-27 | 21 | 622 | 25 | 68 | 16 | 909 |
+| 360d | 2025-11-28 | 46 | 1155 | 26 | 137 | 27 | 1615 |
+| last720d | 2024-12-03 | 95 | 2333 | 27 | 352 | 60 | 3415 |
 
 ## Release assets
 
@@ -98,4 +88,4 @@ Install metadata for cluster-api lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261122.yml` · 2026-11-22T07:49:16Z._
+_Snapshot: `data/card/261123.yml` · 2026-11-23T09:50:27Z._
