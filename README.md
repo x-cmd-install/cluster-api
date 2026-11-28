@@ -14,11 +14,11 @@ x install cluster-api
 
 ## Code insight
 
-Total: **447,817** lines of code across **1696** files in the top 5 languages.
+Total: **449,024** lines of code across **1696** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 365,116 | 65,292 | 45,749 | 1340 |
+| Go | 366,323 | 65,391 | 45,865 | 1340 |
 | Yaml | 59,338 | 513 | 500 | 313 |
 | Json | 19,494 | 0 | 0 | 6 |
 | Makefile | 1,196 | 171 | 297 | 2 |
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 4,407 · **Forks**: 1,641 · **Open issues**: 3,855 · **Contributors**: 1,033
+- **Stars**: 4,419 · **Forks**: 1,691 · **Open issues**: 3,856 · **Contributors**: 1,034
 
 ## Totals (cumulative)
 
-- **Releases**: 286 · **Merged PRs**: 9477 · **Open PRs**: 28 · **Closed issues**: 3709 · **Open issues**: 146 · **Commits**: 15897
+- **Releases**: 286 · **Merged PRs**: 9481 · **Open PRs**: 27 · **Closed issues**: 3711 · **Open issues**: 145 · **Commits**: 15902
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-28 | 5 | 128 | 13 | 5 | 7 | 191 |
-| last60d | 2026-09-28 | 7 | 219 | 16 | 29 | 10 | 323 |
-| 90d | 2026-08-29 | 10 | 318 | 16 | 43 | 12 | 461 |
-| last180d | 2026-05-31 | 22 | 653 | 26 | 68 | 18 | 936 |
-| 360d | 2025-12-02 | 47 | 1176 | 27 | 137 | 29 | 1642 |
-| last720d | 2024-12-07 | 95 | 2354 | 27 | 356 | 60 | 3427 |
+| 30d | 2026-10-29 | 5 | 129 | 12 | 5 | 8 | 196 |
+| last60d | 2026-09-29 | 7 | 219 | 16 | 28 | 11 | 328 |
+| 90d | 2026-08-30 | 10 | 321 | 16 | 43 | 13 | 466 |
+| last180d | 2026-06-01 | 22 | 650 | 25 | 67 | 19 | 941 |
+| 360d | 2025-12-03 | 46 | 1174 | 26 | 137 | 30 | 1647 |
+| last720d | 2024-12-08 | 95 | 2358 | 26 | 358 | 59 | 3432 |
 
 ## Release assets
 
@@ -98,4 +98,4 @@ Install metadata for cluster-api lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261127.yml` · 2026-11-27T09:35:46Z._
+_Snapshot: `data/card/261128.yml` · 2026-11-28T08:17:03Z._
